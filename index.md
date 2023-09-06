@@ -4,7 +4,7 @@ title: Student Blog
 ---
  
 ## Arnav Nadar's Blog 
-My name is Arnav Nadar and I am a 10th grader at the school del norte. Evere since I was five years of age I had an intrest for confding because my father is a Software Engineer at Sony. My first coding class that I took was in 5th grade where they taught the the basics of python like how to print and etc. Over time I have at least basic knowledge of two coding languages that are Python and Java. In 7th grade I was appart of the school coding team club while I also did FLL robotics apart from school. After much work I got elected as president of the FLL club which was an amazing experience for me because I would teach incoming 6th graders about coding. 
+My name is Arnav Nadar and I am a 10th grader at Del Norte High School. Evere since I was five years of age I had an intrest for coding because my father is a Software Engineer at Sony. My first coding class that I took was in 5th grade where they taught the the basics of python like how to print and etc. Over time I have at least basic knowledge of two coding languages that are Python and Java. In 7th grade I was a part of the school coding team club while I also did FLL robotics apart from school. After much work I got elected as president of the FLL club which was an amazing experience for me because I would teach incoming 6th graders about coding. 
 
 
 <a href="https://ibb.co/yhwBJs4"><img src="https://i.ibb.co/CJksF0P/img-0496.jpg" alt="img-0496" border="0" width="500px" hight="400px" ></a>  
@@ -14,7 +14,7 @@ This is my freeform made on week 0 on this class. I have an Indian Flag because 
 
 |  <img src="https://i.ibb.co/KN8chtN/IMG-0229.jpg" width="500px" height="400px">
 | :--: || :--: |
-| This is a picture of me and my brother ofcourse as kids. I could have put a more recent picture but this age of him when he was around 6 or 7 years old was his best. Now hes hitting puberty and he's sometimes just plain annoying. The reason I put this picture is because other than my best freinds he is the next one that I can trust with secrets or i i need something. 
+| This is a picture of me and my brother ofcourse as kids. 
 
 |  <a href="https://ibb.co/0GSBS6K"><img src="https://i.ibb.co/0GSBS6K/10f79a49-ec88-4255-adf3-8f8004dbb437.jpg" alt="10f79a49-ec88-4255-adf3-8f8004dbb437" border="0"></a>
 | :--:||:--:|
