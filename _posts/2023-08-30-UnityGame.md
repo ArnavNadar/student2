@@ -17,10 +17,10 @@ courses: { compsci: {week: 1} }
 </head>
 <body>
   <div id="unityContainer"></div>
-  <iframe src="../../../FlippyMazeGame/index.html" width="1000" height="650"></iframe>
+  <iframe src="../../../FlappyBird/index.html" width="1000" height="650"></iframe>
   <div id="unityContainer"></div>
-  <script src="../../../FlippyMazeGame/TemplateData/UnityProgress.js"></script>
-  <script src="../../../FlippyMazeGame/Build/UnityLoader.js"></script>
+  <script src="../../../FlappyBird/TemplateData/UnityProgress.js"></script>
+  <script src="../../../FlappyBird/Build/UnityLoader.js"></script>
   <script>
     var container = document.getElementById("unityContainer");
     var gameInstance = UnityLoader.instantiate(container, "../../../FlippyMazeGame/Build/YourGame.json");
