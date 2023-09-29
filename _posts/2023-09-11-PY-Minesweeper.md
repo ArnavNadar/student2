@@ -3,7 +3,7 @@ toc: false
 comments: true
 layout: post
 title: JS Minesweeper game
-description: We made the famous game, a classic for all programmers, Minsweeper!
+description: A famous google game
 type: hacks
 courses: { compsci: {week: 3} }
 ---
