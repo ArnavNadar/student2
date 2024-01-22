@@ -8,4 +8,19 @@ Unit2:
   title: Learn Language
   description: Learn (JavaScript|Python|Java).  Start Agile development process.
   start: 4
-  end: 7
+  end: 7  
+Unit3: 
+  title: Web Application, Data, and N@tM
+  description:
+  start: 8     
+  end: 12
+Unit4:
+  title: Warm-up Data Abstraction Project, Create Performance Task (CPT) kickoff
+  description:
+  start: 13
+  end: 17
+Unit5:
+  title: CPT design and development, Computer Systems, Networks, Impact of Computing
+  description:
+  start: 18
+  end: 21   
