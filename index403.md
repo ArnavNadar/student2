@@ -25,10 +25,7 @@ title: 403page
             </div>
             <div class="jumbotron jumbotron-fluid" style="text-align: center; ">
                 <h2>Try Again</h2>
-                <!-- Prompt the user to go back to where they were before 403 page showed -->
                 <a href="javascript:history.back()">Go Back</a>
-                <p>Or</p>
-                <a href="/student2/register">Register</a><a> Or </a><a href="/student2/signin">Sign in</a>
             </div>
         </div>
     </div>
