@@ -1,9 +1,18 @@
+---
+comments: True
+title: Book Genre Reccomendation 
+description: Ever wanted to try a new book genre to read. This page helps with that. Just put in whichever genre you want to read about. 
+courses: {'compsci': {'week': 4}}
+type: hacks
+permalink: /bookgenre
+---
+
 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Random Book Generator</title>
+    <title> </title>
     <style>
         body, input, button, div, h3, p, a, h1 {
             font-family: 'Times New Roman', Times, serif;
@@ -30,10 +39,10 @@
     </style>
 </head>
 <body>
-    <h1>Random Book Generator</h1> 
+    <h1></h1> 
     <!-- Input box for favorite genre -->
     <div>
-        <input type="text" id="favoriteGenreInput" placeholder="Enter your favorite genre">
+        <input type="text" id="favoriteGenreInput" placeholder="Enter book genre that you want to read. ">
         <button onclick="getRandomBook()">Surprise Me</button>
     </div>
     <!-- Display random book here -->
