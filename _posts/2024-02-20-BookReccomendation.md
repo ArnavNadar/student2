@@ -84,7 +84,7 @@
             }
             const data = await response.json();
             console.log('Recommendation Response:', data);
-            return data && data.items ? data.items.map(item => item.volumeInfo) : [];
+            return data && data.items ? data.items.map(item => item.volumeInfo) : []; 
         } catch (error) {
             console.error('Error fetching recommendations:', error);
             return [];

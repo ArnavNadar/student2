@@ -91,7 +91,7 @@ permalink: /bookgenre
             <a href="${book.infoLink}" target="_blank">More info</a>
         `;
         bookResult.innerHTML = ''; // Clear previous result
-        bookResult.appendChild(bookElement);
+        bookResult.appendChild(bookElement); 
     }
 
     function escapeHTML(html) {

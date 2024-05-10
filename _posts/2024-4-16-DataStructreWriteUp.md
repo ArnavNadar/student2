@@ -70,4 +70,4 @@
 ![image](https://github.com/ArnavNadar/student2/assets/142456240/e6b39d41-90d1-44ba-b541-b944cd3503c5)
 
 - > In JavaScript code, show and describe code that handles failure. Describe how the code shows failure to the user in the Chrome Browser screen.
-![image](https://github.com/ArnavNadar/student2/assets/142456240/417133a2-6915-42f0-96e9-4442c4a5886f)
+![image](https://github.com/ArnavNadar/student2/assets/142456240/417133a2-6915-42f0-96e9-4442c4a5886f)  
